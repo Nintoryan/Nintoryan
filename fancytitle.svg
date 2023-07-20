@@ -1,13 +1,15 @@
 <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffcc00" />
-      <stop offset="100%" stop-color="#ff6699" />
+      <stop offset="0%" stop-color="#ee7752" />
+      <stop offset="25%" stop-color="#e73c7e" />
+      <stop offset="50%" stop-color="#23a6d5" />
+      <stop offset="75%" stop-color="#23d5ab" />
     </linearGradient>
   </defs>
-
-  <rect width="100%" height="100%" fill="url(#gradient)" />
-
+  <rect width="100%" height="100%" fill="url(#gradient)">
+    <animate attributeName="x" from="-100%" to="0%" dur="15s" repeatCount="indefinite" />
+  </rect>
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="30">
     Hello, SVG!
   </text>
