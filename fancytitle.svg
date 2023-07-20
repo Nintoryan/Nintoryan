@@ -15,12 +15,12 @@
   </defs>
 
   <!-- Applying the gradient mask to a rectangle (background) and animating it -->
-  <rect width="100%" height="100%" fill="white" mask="url(#gradientMask)">
+  <rect width="100%" height="100%" fill="#ffffff" mask="url(#gradientMask)">
     <animate attributeName="x" from="-100%" to="0%" dur="15s" repeatCount="indefinite" />
   </rect>
 
-  <!-- Adding text to the SVG image -->
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="30" font-family="Montserrat, sans-serif">
-     NINTORYAN
+  <!-- Adding text to the SVG image with Montserrat font -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="48" font-family="Montserrat, sans-serif">
+    NINTORYAN
   </text>
 </svg>
