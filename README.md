@@ -1,5 +1,5 @@
 <div align="center">
     <div style="width: 40%">
-        <img src="https://nintoryan.github.io/Nintoryan" alt="NINTORYAN" />
+        <img src="/fancytitle.svg" alt="NINTORYAN" />
     </div>
   </div>
