@@ -7,15 +7,10 @@
       <stop offset="50%" stop-color="#23a6d5" />
       <stop offset="75%" stop-color="#23d5ab" />
     </linearGradient>
-    
-    <!-- Creating a mask to apply the gradient smoothly -->
-    <mask id="gradientMask">
-      <rect width="100%" height="100%" fill="url(#gradient)" />
-    </mask>
   </defs>
 
-  <!-- Applying the gradient mask to a rectangle (background) and animating it -->
-  <rect width="100%" height="100%" fill="#ffffff" mask="url(#gradientMask)">
+  <!-- Applying the gradient to a rectangle (background) and animating it -->
+  <rect width="100%" height="100%" fill="url(#gradient)">
     <animate attributeName="x" from="-100%" to="0%" dur="15s" repeatCount="indefinite" />
   </rect>
 
