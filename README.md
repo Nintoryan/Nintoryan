@@ -1,7 +1,10 @@
-### ✅   CTO of [Herbarium Games](https://herbariumgames.com/)
+### Hi, I'm
 <img src="/fancytitle.svg" alt="NINTORYAN" />
-### 🚌   Currently leading a team of amazing guys, working on [BUS](https://taplink.cc/brousurvived)
-### 📚   Bachelor Degree of Information Systems & Technologies at NUST MISIS.
-### 💪   Made a huge contribution in the development of [Plus.City](https://plus-city.ru/) 
-### 🚀   Shipped 50+ hyper-casual games
-### 💻   5 years' game/web development working experience.
+<ul>
+  <li>✅ CTO of <a href=https://herbariumgames.com/><b>Herbarium Games</b></a></li>
+  <li>🚌 Currently leading a team of amazing guys, working on <a href=https://taplink.cc/brousurvived><b>BUS</b></a></li>
+  <li>📚 Bachelor Degree of Information Systems & Technologies at NUST MISIS.</li>
+  <li>💪 Made a huge contribution in the development of <a href=https://plus-city.ru/><b>Plus.City</b></a></li>
+  <li>🚀 Shipped 50+ hyper-casual games</li>
+  <li>💻 5 years' game/web development working experience.</li>
+</ul> 
