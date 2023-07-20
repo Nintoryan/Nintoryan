@@ -1,3 +1,5 @@
-# My Fancy Title
-
-<iframe src="title.html" frameborder="0" width="100%" height="400"></iframe>
+<div align="center">
+    <div style="width: 40%">
+        <img src="https://nintoryan.github.io/Nintoryan" alt="NINTORYAN" />
+    </div>
+  </div>
