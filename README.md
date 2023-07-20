@@ -1,8 +1,4 @@
-<div align="center">
-    <div style="width: 100%">
-        <img src="/fancytitle.svg" alt="NINTORYAN" />
-    </div>
-  </div>
+<img src="/fancytitle.svg" alt="NINTORYAN" />
 ### ✅   CTO of [Herbarium Games](https://herbariumgames.com/)
 ### 🚌   Currently leading a team of amazing guys, working on [BUS](https://taplink.cc/brousurvived)
 ### 📚   Bachelor Degree of Information Systems & Technologies at NUST MISIS.
