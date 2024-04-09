@@ -6,5 +6,5 @@
   <li>📚 Bachelor Degree of Information Systems & Technologies at NUST MISIS.</li>
   <li>💪 Made a huge contribution in the development of <a href=https://plus-city.ru/><b>Plus.City</b></a></li>
   <li>🚀 Shipped 50+ hyper-casual games</li>
-  <li>💻 5 years' game/web development working experience.</li>
+  <li>💻 6 years' game/web development working experience.</li>
 </ul> 
